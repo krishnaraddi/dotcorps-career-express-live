@@ -1,0 +1,27 @@
+{
+  "name": "dotcorps-career-express-live",
+  "version": "1.0.0",
+  "description": "dotcorps career site powered by express JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnaraddi/dotcorps-career-express-live.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishnaraddi/dotcorps-career-express-live/issues"
+  },
+  "homepage": "https://github.com/krishnaraddi/dotcorps-career-express-live#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2"
+  }
+}
